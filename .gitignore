@@ -1,6 +1,9 @@
 *.ipynb_checkpoints
 *.csv
-Anomaly_detection/HW7_anomaly_detection/Dataset/
-Anomaly_detection/HW7_anomaly_detection/EPAM_7-1-ОЦЕНКА.docx
 *.hdf5
 *.vec
+*.npy
+*.h5
+*.jpg
+HW7_anomaly_detection/Dataset/
+HW7_anomaly_detection/EPAM_7-1-ОЦЕНКА.docx
